@@ -13,7 +13,6 @@ function Header() {
           />
         </Link>
       </Cell>
-
       <MenuButton />
     </Container>
   );

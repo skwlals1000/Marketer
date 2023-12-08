@@ -10,8 +10,8 @@ function NavigationBar() {
           <NavLink to="/">홈</NavLink>
           <NavLink to="/search">검색</NavLink>
           <NavLink to="/services">맛 설정 모드</NavLink>
-          <NavLink to="/contact">맛 집 랭킹</NavLink>
-          <NavLink to="/cuminte">커뮤니티</NavLink>
+          <NavLink to="/Rank">맛 집 랭킹</NavLink>
+          <NavLink to="/comunicate">커뮤니티</NavLink>
         </div>
       </Container>
     </StyledNavigationBar>
